@@ -1,5 +1,8 @@
 # CTZ: Instrução nova para o Processador
 
+Vídeo sobre a Instrução no Youtube: [![Função CTZ](https://img.youtube.com/vi/Fpy74562nf4/0.jpg)](https://www.youtube.com/watch?v=Fpy74562nf4)
+
+
 A função CTZ (Count Trailing Zeros) é uma instrução que conta o número de bits de valor zero à direita em um número binário. Ela depende de várias etapas para ser executada corretamente em uma máquina baseada em microarquitetura. Aqui está uma visão geral das etapas envolvidas:
 
 1. **Fetch (Busca):**
