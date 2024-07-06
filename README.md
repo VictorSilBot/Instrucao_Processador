@@ -1,5 +1,7 @@
 # CTZ: Instrução nova para o Processador
 
+Autores: Victor Silva Botelho, Matheus D'Afonseca e Silva, João Victor Andrade dos Santos
+
 Vídeo sobre a Instrução no Youtube: 
 
 [![Função CTZ](https://img.youtube.com/vi/Fpy74562nf4/0.jpg)](https://www.youtube.com/watch?v=Fpy74562nf4)
